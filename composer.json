@@ -1,0 +1,16 @@
+{
+    "name": "caya/student-management",
+    "description": "Basic StudentManagement System",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Caya\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christyll Caya"
+        }
+    ],
+    "require": {}
+}
